@@ -1,12 +1,3 @@
-## Hi there 👋
+<h1 align="left">Transformando desafios em soluções: Simplificando a gestão empresarial</h1>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="left">Bem-vindo à Venidici! Somos uma empresa de tecnologia que desenvolve softwares para ajudar as empresas e as pessoas no Brasil.<br><br>Nós trabalhamos com as mais recentes tecnologias para desenvolver soluções personalizadas para nossos clientes. Nossa equipe de desenvolvedores está comprometida em criar softwares de alta qualidade e que atendam às necessidades dos nossos clientes.<br><br>Nosso objetivo é fornecer soluções tecnológicas eficazes para ajudar nossos clientes a crescerem e a alcançarem seus objetivos de negócios. Nós acreditamos que a tecnologia é uma ferramenta poderosa para aumentar a produtividade, eficiência e competitividade das empresas.<br><br>Nós estamos comprometidos em fornecer o melhor serviço para nossos clientes, trabalhando em colaboração para entender suas necessidades e criar soluções que atendam suas expectativas.<br><br>Se você está procurando uma solução tecnológica personalizada para o seu negócio ou precisa de ajuda para implementar um software em sua empresa, entre em contato conosco! Nós ficaremos felizes em ajudá-lo.</p>
